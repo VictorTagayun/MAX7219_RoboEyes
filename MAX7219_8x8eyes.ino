@@ -38,7 +38,7 @@ int cntEffect = 0;
 
 // perform an effect every # of loop iterations, 0 to disable
 #define EFFECT_ITERATION 4
-int intensity = 2;
+int intensity = 1;
 
 /*
   Arduino setup
